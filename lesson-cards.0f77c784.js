@@ -751,7 +751,7 @@ const templateFunction = (0, _handlebarsDefault.default).template({
                     "column": 2
                 },
                 "end": {
-                    "line": 12,
+                    "line": 13,
                     "column": 9
                 }
             }
@@ -761,11 +761,11 @@ const templateFunction = (0, _handlebarsDefault.default).template({
             "data": data,
             "loc": {
                 "start": {
-                    "line": 14,
+                    "line": 15,
                     "column": 20
                 },
                 "end": {
-                    "line": 14,
+                    "line": 15,
                     "column": 29
                 }
             }
@@ -775,11 +775,11 @@ const templateFunction = (0, _handlebarsDefault.default).template({
             "data": data,
             "loc": {
                 "start": {
-                    "line": 15,
+                    "line": 16,
                     "column": 20
                 },
                 "end": {
-                    "line": 15,
+                    "line": 16,
                     "column": 29
                 }
             }
@@ -789,11 +789,11 @@ const templateFunction = (0, _handlebarsDefault.default).template({
             "data": data,
             "loc": {
                 "start": {
-                    "line": 16,
+                    "line": 17,
                     "column": 18
                 },
                 "end": {
-                    "line": 16,
+                    "line": 17,
                     "column": 31
                 }
             }
@@ -803,11 +803,11 @@ const templateFunction = (0, _handlebarsDefault.default).template({
             "data": data,
             "loc": {
                 "start": {
-                    "line": 17,
+                    "line": 18,
                     "column": 18
                 },
                 "end": {
-                    "line": 17,
+                    "line": 18,
                     "column": 26
                 }
             }
@@ -832,10 +832,10 @@ const templateFunction = (0, _handlebarsDefault.default).template({
                     "column": 23
                 }
             }
-        }) : helper)) + "' class='images' alt='images' />\r\n";
+        }) : helper)) + "' class='images' alt='images' width='400px' />\r\n";
     },
     "4": function(container, depth0, helpers, partials, data) {
-        return "			<img\r\n				src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuxwing.com%2Fwp-content%2Fthemes%2Fuxwing%2Fdownload%2Fsigns-and-symbols%2Ferror-icon.png&f=1&nofb=1&ipt=39d319d80d4149132d677f64fe66bb92f0a56f45938d3657162844a3768874a8'\r\n				class='images'\r\n				alt='images'\r\n			/>\r\n";
+        return "			<img\r\n				src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuxwing.com%2Fwp-content%2Fthemes%2Fuxwing%2Fdownload%2Fsigns-and-symbols%2Ferror-icon.png&f=1&nofb=1&ipt=39d319d80d4149132d677f64fe66bb92f0a56f45938d3657162844a3768874a8'\r\n				class='images'\r\n				alt='images'\r\n				width='400px'\r\n			/>\r\n";
     },
     "compiler": [
         8,
@@ -858,7 +858,7 @@ const templateFunction = (0, _handlebarsDefault.default).template({
                     "column": 0
                 },
                 "end": {
-                    "line": 19,
+                    "line": 20,
                     "column": 9
                 }
             }
